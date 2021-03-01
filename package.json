@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "three": "^0.98.0",
+    "three": "^0.125.0",
     "three-orbit-controls": "^82.1.0",
     "vue": "^2.5.2",
     "vue-resize-directive": "^1.1.4",
